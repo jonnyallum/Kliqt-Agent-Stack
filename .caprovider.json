@@ -1,0 +1,10 @@
+{
+  "name": "klipt-agent-stack",
+  "version": "1.0.0",
+  "description": "Klipt Agent Stack deployment configuration",
+  "config": {
+    "apiEndpoint": "https://api.klipt.com",
+    "timeout": 10000,
+    "retryCount": 3
+  }
+}
