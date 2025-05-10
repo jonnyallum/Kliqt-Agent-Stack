@@ -1,4 +1,4 @@
-# Klipt Agent Stack
+# Kliqt-Agent-Stack
 
 A collection of agents for deploying and managing applications.
 
